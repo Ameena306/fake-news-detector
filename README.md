@@ -4,19 +4,19 @@ A lightweight and user-friendly web application that detects whether a given new
 
 ![demo](https://user-images.githubusercontent.com/your-gif-preview.gif) <!-- Optional demo gif -->
 
-## 🔍 Features
+ Features
 
-- ✅ Real-time Fake News Prediction
-- 🎙️ Speech-to-Text Input
-- 🌙 Light & Dark Mode Toggle
-- 💬 Example News Button
-- 🧠 Trained with Scikit-learn + TF-IDF + Logistic Regression
+-  Real-time Fake News Prediction
+-  Speech-to-Text Input
+-  Light & Dark Mode Toggle
+-  Example News Button
+-  Trained with Scikit-learn + TF-IDF + Logistic Regression
 
-## 🚀 Demo
+ Demo
 
-👉 [Live Site on Render](https://fake-news-detector-zo5e.onrender.com)
+ [Live Site on Render](https://fake-news-detector-zo5e.onrender.com)
 
-## 🛠️ Tech Stack
+ Tech Stack
 
 - **Frontend**: HTML, CSS (Bootstrap), JS  
 - **Backend**: Python, Flask  
@@ -24,7 +24,7 @@ A lightweight and user-friendly web application that detects whether a given new
 - **Deployment**: Render  
 - **Extras**: Speech Recognition API, Dark Mode
 
-## 📂 Folder Structure
+ Folder Structure
 
 fake-news-detector/
 ├── app.py
@@ -40,18 +40,18 @@ fake-news-detector/
 │ └── tfidf_vectorizer.pkl
 
 
-## 🧠 How it Works
+ How it Works
 
 - Dataset: Combined real/fake news from Kaggle
 - Model: TF-IDF vectorization + Logistic Regression
 - Output: REAL or FAKE badge instantly after input
 
-## 🤝 Contribution
+ Contribution
 
 Feel free to fork, clone, or raise issues!  
-PRs welcome 😊
+PRs welcome 
 
 ---
 
-© 2025 | Built with ❤️ by [Ameena Sherin](https://www.linkedin.com/in/your-profile)
+© 2025 | Built with  by [Ameena Sherin](https://www.linkedin.com/in/your-profile)
 
